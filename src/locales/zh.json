@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "首页",
+    "products": "产品",
+    "catalogs": "目录",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "blogs": "博客",
+    "partner": "合作",
+    "requestQuote": "索取报价",
+    "meeting": "会议",
+    "howMayWeHelp": "我们如何帮助您？"
+  },
+  "footer": {
+    "company": "公司",
+    "address": "地址",
+    "certifications": "认证",
+    "allRightsReserved": "版权所有"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "优质外科手术器械",
+    "heroSubtitle": "优质牙科和外科手术器械",
+    "learnMore": "了解更多"
+  },
+  "products": {
+    "allProducts": "所有产品",
+    "searchProducts": "搜索产品...",
+    "showingProducts": "显示",
+    "of": "的",
+    "products": "产品",
+    "noProductsFound": "未找到产品。",
+    "loadingProducts": "加载产品中..."
+  },
+  "common": {
+    "close": "关闭",
+    "open": "打开",
+    "menu": "菜单",
+    "filter": "筛选",
+    "categories": "类别",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "返回产品",
+    "loadingProduct": "加载产品...",
+    "productNotFound": "未找到产品",
+    "description": "描述",
+    "category": "类别",
+    "sku": "SKU",
+    "requestQuote": "请求报价",
+    "emailUs": "发邮件给我们",
+    "moreProducts": "更多产品",
+    "similarTo": "类似于",
+    "defaultDescription": "以精密和细致制造的优质产品。专为医疗环境中的卓越而设计。请联系我们获取详细规格和定制选项。"
+  }
+}

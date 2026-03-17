@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "Почетна",
+    "products": "Производи",
+    "catalogs": "Каталози",
+    "about": "За нас",
+    "contact": "Контакт",
+    "blogs": "Блогови",
+    "partner": "Партнерство",
+    "requestQuote": "Побарај понуда",
+    "meeting": "Сочит",
+    "howMayWeHelp": "Како можемо да ви помогнеме?"
+  },
+  "footer": {
+    "company": "Компанија",
+    "address": "Адреса",
+    "certifications": "Сертификати",
+    "allRightsReserved": "Сите права задржани"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "Премиум Хирургски Инструменти",
+    "heroSubtitle": "Квалитетни Забни и Хирургски Инструменти",
+    "learnMore": "Дознајте повеќе"
+  },
+  "products": {
+    "allProducts": "Сите Производи",
+    "searchProducts": "Пребарајте производи...",
+    "showingProducts": "Приказ",
+    "of": "од",
+    "products": "производи",
+    "noProductsFound": "Не се пронајдени производи.",
+    "loadingProducts": "Вчитување производи..."
+  },
+  "common": {
+    "close": "Затвори",
+    "open": "Отвори",
+    "menu": "Мени",
+    "filter": "Филтер",
+    "categories": "Категории",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "Головна",
+    "products": "Продукти",
+    "catalogs": "Каталоги",
+    "about": "Про нас",
+    "contact": "Контакти",
+    "blogs": "Блоги",
+    "partner": "Партнерство",
+    "requestQuote": "Запит на пропозицію",
+    "meeting": "Зустріч",
+    "howMayWeHelp": "Як ми можемо допомогти?"
+  },
+  "footer": {
+    "company": "Компанія",
+    "address": "Адреса",
+    "certifications": "Сертифікати",
+    "allRightsReserved": "Всі права захищені"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "Преміальні Хірургічні Інструменти",
+    "heroSubtitle": "Якісні Стоматологічні та Хірургічні Інструменти",
+    "learnMore": "Дізнатись більше"
+  },
+  "products": {
+    "allProducts": "Всі Продукти",
+    "searchProducts": "Пошук продуктів...",
+    "showingProducts": "Показано",
+    "of": "з",
+    "products": "продуктів",
+    "noProductsFound": "Продукти не знайдено.",
+    "loadingProducts": "Завантаження продуктів..."
+  },
+  "common": {
+    "close": "Закрити",
+    "open": "Відкрити",
+    "menu": "Меню",
+    "filter": "Фільтр",
+    "categories": "Категорії",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

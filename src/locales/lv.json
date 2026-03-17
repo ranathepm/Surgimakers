@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "Sākums",
+    "products": "Produkti",
+    "catalogs": "Katalogs",
+    "about": "Par mums",
+    "contact": "Kontakts",
+    "blogs": "Blogi",
+    "partner": "Partnerība",
+    "requestQuote": "Pieprasīt cenu",
+    "meeting": "Tikšanās",
+    "howMayWeHelp": "Kā mēs varam palīdzēt?"
+  },
+  "footer": {
+    "company": "Uzņēmums",
+    "address": "Adrese",
+    "certifications": "Sertifikācijas",
+    "allRightsReserved": "Visas tiesības aizsargātas"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "Premium Ķirurģiskie Instrumenti",
+    "heroSubtitle": "Kvalitatīvi Dentālie un Ķirurģiskie Instrumenti",
+    "learnMore": "Uzzināt vairāk"
+  },
+  "products": {
+    "allProducts": "Visi Produkti",
+    "searchProducts": "Meklēt produktus...",
+    "showingProducts": "Rāda",
+    "of": "no",
+    "products": "produktu",
+    "noProductsFound": "Produkti nav atrasti.",
+    "loadingProducts": "Ielādē produktus..."
+  },
+  "common": {
+    "close": "Aizvērt",
+    "open": "Atvērt",
+    "menu": "Izvēlne",
+    "filter": "Filtrs",
+    "categories": "Kategorijas",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

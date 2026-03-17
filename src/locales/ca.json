@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "Inici",
+    "products": "Productes",
+    "catalogs": "Catàlegs",
+    "about": "Sobre nosaltres",
+    "contact": "Contacte",
+    "blogs": "Blogs",
+    "partner": "Socis",
+    "requestQuote": "Sol·licitar pressupost",
+    "meeting": "Reunió",
+    "howMayWeHelp": "Com us podem ajudar?"
+  },
+  "footer": {
+    "company": "Empresa",
+    "address": "Adreça",
+    "certifications": "Certificacions",
+    "allRightsReserved": "Tots els drets reservats"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "Instruments quirúrgics premium",
+    "heroSubtitle": "Instruments dentals i quirúrgics de qualitat",
+    "learnMore": "Més informació"
+  },
+  "products": {
+    "allProducts": "Tots els Productes",
+    "searchProducts": "Cercar productes...",
+    "showingProducts": "Mostrant",
+    "of": "de",
+    "products": "productes",
+    "noProductsFound": "No s'han trobat productes.",
+    "loadingProducts": "Carregant productes..."
+  },
+  "common": {
+    "close": "Tancar",
+    "open": "Obrir",
+    "menu": "Menú",
+    "filter": "Filtre",
+    "categories": "Categories",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "Početna",
+    "products": "Proizvodi",
+    "catalogs": "Katalozi",
+    "about": "O nama",
+    "contact": "Kontakt",
+    "blogs": "Blogovi",
+    "partner": "Partnerstvo",
+    "requestQuote": "Zatražite ponudu",
+    "meeting": "Sastanak",
+    "howMayWeHelp": "Kako vam možemo pomoći?"
+  },
+  "footer": {
+    "company": "Tvrtka",
+    "address": "Adresa",
+    "certifications": "Certifikati",
+    "allRightsReserved": "Sva prava pridržana"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "Premium Kirurški Instrumenti",
+    "heroSubtitle": "Kvalitetni Dentalni i Kirurški Instrumenti",
+    "learnMore": "Saznajte više"
+  },
+  "products": {
+    "allProducts": "Svi Proizvodi",
+    "searchProducts": "Pretraživanje proizvoda...",
+    "showingProducts": "Prikaz",
+    "of": "od",
+    "products": "proizvoda",
+    "noProductsFound": "Nema pronađenih proizvoda.",
+    "loadingProducts": "Učitavanje proizvoda..."
+  },
+  "common": {
+    "close": "Zatvori",
+    "open": "Otvori",
+    "menu": "Izbornik",
+    "filter": "Filtri",
+    "categories": "Kategorije",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

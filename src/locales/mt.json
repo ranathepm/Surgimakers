@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "Dar",
+    "products": "Prodotti",
+    "catalogs": "Katalgi",
+    "about": "Dwar lina",
+    "contact": "Kuntatt",
+    "blogs": "Blogs",
+    "partner": "Sħubieħ",
+    "requestQuote": "Ittiehbid għal-kwotazzjoni",
+    "meeting": "Laqgħa",
+    "howMayWeHelp": "Kif nista' ngħinek l-għajnuna?"
+  },
+  "footer": {
+    "company": "Kumpanija",
+    "address": "Indirizz",
+    "certifications": "Ċertifikazzjonijiet",
+    "allRightsReserved": "Drittijiet kollha riżervati"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "Strumenti Kirurġiċi Premium",
+    "heroSubtitle": "Strumenti Denaturali u Kirurġiċi ta' Kwalità Għolja",
+    "learnMore": "Agħraf iktar"
+  },
+  "products": {
+    "allProducts": "Dak ir-Prodotti kollha",
+    "searchProducts": "Fittex prodotti...",
+    "showingProducts": "Juri",
+    "of": "minn",
+    "products": "prodotti",
+    "noProductsFound": "Ma nstabx prodotti.",
+    "loadingProducts": "Soltu l-prodotti..."
+  },
+  "common": {
+    "close": "Agħlaq",
+    "open": "Iftaħ",
+    "menu": "Menu",
+    "filter": "Filtru",
+    "categories": "Kategoriji",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

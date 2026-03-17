@@ -1,0 +1,42 @@
+{
+  "name": "Surgi Makers - Premium Dental & Surgical Instruments",
+  "short_name": "Surgi Makers",
+  "description": "Premium Surgical Instrument Manufacturer. ISO 13485 & CE Certified. Leading manufacturer of dental, surgical, and beauty instruments.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#dc2626",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/LOGO_Red__White.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/LOGO_Red__White.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["medical", "health", "surgery", "instruments"],
+  "shortcuts": [
+    {
+      "name": "Products",
+      "short_name": "Products",
+      "description": "Browse our product catalog",
+      "url": "/products",
+      "icons": [{ "src": "/LOGO_Red__White.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Contact",
+      "short_name": "Contact",
+      "description": "Contact us for inquiries",
+      "url": "/contact",
+      "icons": [{ "src": "/LOGO_Red__White.png", "sizes": "96x96" }]
+    }
+  ]
+}

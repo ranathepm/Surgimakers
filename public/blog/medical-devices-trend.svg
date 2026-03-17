@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400">
+  <defs>
+    <linearGradient id="trendGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7c3aed"/>
+      <stop offset="100%" style="stop-color:#a855f7"/>
+    </linearGradient>
+    <linearGradient id="healthGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981"/>
+      <stop offset="100%" style="stop-color:#34d399"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="500" height="400" fill="#0f172a"/>
+  <!-- Grid lines -->
+  <g stroke="#1e293b" stroke-width="1" opacity="0.5">
+    <line x1="0" y1="50" x2="500" y2="50"/>
+    <line x1="0" y1="100" x2="500" y2="100"/>
+    <line x1="0" y1="150" x2="500" y2="150"/>
+    <line x1="0" y1="200" x2="500" y2="200"/>
+    <line x1="0" y1="250" x2="500" y2="250"/>
+    <line x1="0" y1="300" x2="500" y2="300"/>
+    <line x1="0" y1="350" x2="500" y2="350"/>
+    <line x1="50" y1="0" x2="50" y2="400"/>
+    <line x1="100" y1="0" x2="100" y2="400"/>
+    <line x1="150" y1="0" x2="150" y2="400"/>
+    <line x1="200" y1="0" x2="200" y2="400"/>
+    <line x1="250" y1="0" x2="250" y2="400"/>
+    <line x1="300" y1="0" x2="300" y2="400"/>
+    <line x1="350" y1="0" x2="350" y2="400"/>
+    <line x1="400" y1="0" x2="400" y2="400"/>
+    <line x1="450" y1="0" x2="450" y2="400"/>
+  </g>
+  <!-- Trend line graph -->
+  <path d="M50 320 L100 300 L150 280 L200 250 L250 220 L300 180 L350 150 L400 120 L450 80" stroke="url(#trendGrad)" stroke-width="4" fill="none" filter="url(#glow)"/>
+  <!-- Data points -->
+  <circle cx="50" cy="320" r="8" fill="url(#healthGrad)"/>
+  <circle cx="100" cy="300" r="8" fill="url(#healthGrad)"/>
+  <circle cx="150" cy="280" r="8" fill="url(#healthGrad)"/>
+  <circle cx="200" cy="250" r="8" fill="url(#healthGrad)"/>
+  <circle cx="250" cy="220" r="10" fill="url(#trendGrad)" filter="url(#glow)"/>
+  <circle cx="300" cy="180" r="8" fill="url(#healthGrad)"/>
+  <circle cx="350" cy="150" r="8" fill="url(#healthGrad)"/>
+  <circle cx="400" cy="120" r="8" fill="url(#healthGrad)"/>
+  <circle cx="450" cy="80" r="10" fill="url(#trendGrad)" filter="url(#glow)"/>
+  <!-- Device icons -->
+  <g transform="translate(80, 340)">
+    <rect x="0" y="0" width="30" height="20" rx="3" fill="#3b82f6"/>
+    <circle cx="15" cy="10" r="5" fill="#1e40af"/>
+  </g>
+  <g transform="translate(200, 160)">
+    <rect x="0" y="0" width="40" height="25" rx="4" fill="#8b5cf6" opacity="0.3"/>
+    <rect x="5" y="5" width="30" height="15" rx="2" fill="#a78bfa"/>
+  </g>
+  <g transform="translate(350, 130)">
+    <circle cx="15" cy="15" r="15" fill="#0ea5e9" opacity="0.3"/>
+    <path d="M10 10 L20 10 L15 20 Z" fill="#22d3ee"/>
+  </g>
+  <!-- AI/Data symbol -->
+  <g transform="translate(430, 60)">
+    <polygon points="15,0 30,25 0,25" fill="#f59e0b" opacity="0.8"/>
+  </g>
+  <!-- Title -->
+  <text x="250" y="30" text-anchor="middle" fill="#a5b4fc" font-family="Arial, sans-serif" font-size="14" font-weight="bold">2026 TRENDS</text>
+  <text x="250" y="380" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="12">Medical Device Innovation</text>
+</svg>

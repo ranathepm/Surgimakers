@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "ہوم",
+    "products": "پروڈکٹس",
+    "catalogs": "کیٹلاگز",
+    "about": "ہمارے بارے میں",
+    "contact": "رابطہ کریں",
+    "blogs": "بلوگز",
+    "partner": "شریک حیثیت سے کام کریں",
+    "requestQuote": "قیمت درخواست کریں",
+    "meeting": "ملاقات",
+    "howMayWeHelp": "ہم آپ کی کیسے مدد کر سکتے ہیں؟"
+  },
+  "footer": {
+    "company": "کمپنی",
+    "address": "پتہ",
+    "certifications": "سرٹیفیکیشنز",
+    "allRightsReserved": "تمام حقوق محفوظ ہیں"
+  },
+  "home": {
+    "title": "سرجی میکرز",
+    "heroTitle": "پریمیم جرکری آلات",
+    "heroSubtitle": "اعلیٰ معیار کی دندان اور جرکری آلات",
+    "learnMore": "مزید جانیں"
+  },
+  "products": {
+    "allProducts": "تمام پروڈکٹس",
+    "searchProducts": "پروڈکٹس تلاش کریں...",
+    "showingProducts": "دکھا رہا ہے",
+    "of": "میں سے",
+    "products": "پروڈکٹس",
+    "noProductsFound": "کوئی پروڈکٹ نہیں ملا۔",
+    "loadingProducts": "پروڈکٹس لوڈ ہو رہے ہیں..."
+  },
+  "common": {
+    "close": "بند کریں",
+    "open": "کھولیں",
+    "menu": "مینو",
+    "filter": "فلٹر",
+    "categories": "زمرے",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

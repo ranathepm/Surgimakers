@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "Heim",
+    "products": "Vörur",
+    "catalogs": "Lista",
+    "about": "Um okkur",
+    "contact": "Hafa samband",
+    "blogs": "Bloggar",
+    "partner": "Samstarf",
+    "requestQuote": "Biðja um tilboð",
+    "meeting": "Fundur",
+    "howMayWeHelp": "Hvernig getum við hjálpað þér?"
+  },
+  "footer": {
+    "company": "Fyrirtæki",
+    "address": "Heimilisfang",
+    "certifications": "Vottun",
+    "allRightsReserved": "Öll réttindi áskilin"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "Fremur Fæðingáætlingartæki",
+    "heroSubtitle": "Gæði Tannfræði og Fæðingáætlingartæki",
+    "learnMore": "Kanna meira"
+  },
+  "products": {
+    "allProducts": "Allar Vörur",
+    "searchProducts": "Leita að vörum...",
+    "showingProducts": "Sýna",
+    "of": "af",
+    "products": "vörur",
+    "noProductsFound": "Engar vörur fundnar.",
+    "loadingProducts": "Hleður vörur..."
+  },
+  "common": {
+    "close": "Loka",
+    "open": "Opna",
+    "menu": "Valmynd",
+    "filter": "Sía",
+    "categories": "Flokkar",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

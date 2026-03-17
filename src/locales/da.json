@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "Hjem",
+    "products": "Produkter",
+    "catalogs": "Kataloger",
+    "about": "Om os",
+    "contact": "Kontakt",
+    "blogs": "Blogs",
+    "partner": "Bliv Partner",
+    "requestQuote": "Anmod om Tilbud",
+    "meeting": "Møde",
+    "howMayWeHelp": "Hvordan kan vi hjælpe dig?"
+  },
+  "footer": {
+    "company": "Virksomhed",
+    "address": "Adresse",
+    "certifications": "Certificeringer",
+    "allRightsReserved": "Alle rettigheder forbeholdes"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "Premium Kirurgiske Instrumenter",
+    "heroSubtitle": "Kvalitets Tand- og Kirurgiske Instrumenter",
+    "learnMore": "Læs mere"
+  },
+  "products": {
+    "allProducts": "Alle Produkter",
+    "searchProducts": "Søg produkter...",
+    "showingProducts": "Viser",
+    "of": "af",
+    "products": "produkter",
+    "noProductsFound": "Ingen produkter fundet.",
+    "loadingProducts": "Indlæser produkter..."
+  },
+  "common": {
+    "close": "Luk",
+    "open": "Åbn",
+    "menu": "Menu",
+    "filter": "Filter",
+    "categories": "Kategorier",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

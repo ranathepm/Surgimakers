@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "Hafan",
+    "products": "Cynnyrch",
+    "catalogs": "Catalogau",
+    "about": "Amdanom",
+    "contact": "Cyswlltu",
+    "blogs": "Blogs",
+    "partner": "Partneriaeth",
+    "requestQuote": "Gofyn Dyfynbris",
+    "meeting": "Cyfarfyddiad",
+    "howMayWeHelp": "Sut o allu ni helpu?"
+  },
+  "footer": {
+    "company": "Cwmni",
+    "address": "Cyfeiriad",
+    "certifications": "Tystysgrifau",
+    "allRightsReserved": "Holl hawliau wedd eu"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "Offernau Chirurgol Premium",
+    "heroSubtitle": "Offernau Dannedd a Chirurgol o Ansawdd Uchel",
+    "learnMore": "Dysgu mwy"
+  },
+  "products": {
+    "allProducts": "Pob Cynnyrch",
+    "searchProducts": "Chwilio cynnyrch...",
+    "showingProducts": "Yn dangos",
+    "of": "o",
+    "products": "cynnyrch",
+    "noProductsFound": "Wedi eu canfod unrhyw gynnyrch.",
+    "loadingProducts": "Yn llwytho cynnyrch..."
+  },
+  "common": {
+    "close": "Cau",
+    "open": "Agor",
+    "menu": "Dewislen",
+    "filter": "Hidl",
+    "categories": "Categorïau",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

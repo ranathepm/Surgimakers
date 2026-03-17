@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "홈",
+    "products": "제품",
+    "catalogs": "카탈로그",
+    "about": "소개",
+    "contact": "연락처",
+    "blogs": "블로그",
+    "partner": "파트너",
+    "requestQuote": "견적 요청",
+    "meeting": "회의",
+    "howMayWeHelp": "어떻게 도와드릴까요?"
+  },
+  "footer": {
+    "company": "회사",
+    "address": "주소",
+    "certifications": "인증",
+    "allRightsReserved": "모든 권리 보유"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "프리미엄 수술 기구",
+    "heroSubtitle": "고품질 치과 및 수술 기구",
+    "learnMore": "더 알아보기"
+  },
+  "products": {
+    "allProducts": "모든 제품",
+    "searchProducts": "제품 검색...",
+    "showingProducts": "표시",
+    "of": "의",
+    "products": "제품",
+    "noProductsFound": "제품을 찾을 수 없습니다.",
+    "loadingProducts": "제품 로딩 중..."
+  },
+  "common": {
+    "close": "닫기",
+    "open": "열기",
+    "menu": "메뉴",
+    "filter": "필터",
+    "categories": "카테고리",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "제품으로 돌아가기",
+    "loadingProduct": "제품 로딩 중...",
+    "productNotFound": "제품을 찾을 수 없습니다",
+    "description": "설명",
+    "category": "카테고리",
+    "sku": "SKU",
+    "requestQuote": "견적 요청",
+    "emailUs": "이메일 보내기",
+    "moreProducts": "더 많은 제품",
+    "similarTo": "와 유사한",
+    "defaultDescription": "정밀하고 세심하게 제작된 프리미엄 품질의 제품입니다. 의료 환경에서의 우수성을 위해 설계되었습니다. 자세한 사양 및 사용자 지정 옵션에 대해 문의하십시오."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "หน้าแรก",
+    "products": "ผลิตภัณฑ์",
+    "catalogs": "แคตตาล็อก",
+    "about": "เกี่ยวกับเรา",
+    "contact": "ติดต่อ",
+    "blogs": "บล็อก",
+    "partner": "ความเป็นพาร์ทเนอร์",
+    "requestQuote": "ขอรับใบเสนอราคา",
+    "meeting": "การประชุม",
+    "howMayWeHelp": "เราจะช่วยคุณอย่างไร?"
+  },
+  "footer": {
+    "company": "บริษัท",
+    "address": "ที่อยู่",
+    "certifications": "การรับรอง",
+    "allRightsReserved": "สงวนลิขสิทธิ์"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "เครื่องมือผ่าตัดพรีเมียม",
+    "heroSubtitle": "เครื่องมือทันตกรรมและผ่าตัดคุณภาพ",
+    "learnMore": "เรียนรู้เพิ่มเติม"
+  },
+  "products": {
+    "allProducts": "ผลิตภัณฑ์ทั้งหมด",
+    "searchProducts": "ค้นหาผลิตภัณฑ์...",
+    "showingProducts": "แสดง",
+    "of": "ของ",
+    "products": "ผลิตภัณฑ์",
+    "noProductsFound": "ไม่พบผลิตภัณฑ์",
+    "loadingProducts": "กำลังโหลดผลิตภัณฑ์..."
+  },
+  "common": {
+    "close": "ปิด",
+    "open": "เปิด",
+    "menu": "เมนู",
+    "filter": "ตัวกรอง",
+    "categories": "หมวดหมู่",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

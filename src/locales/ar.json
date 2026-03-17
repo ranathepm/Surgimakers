@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "الرئيسية",
+    "products": "المنتجات",
+    "catalogs": "الكتيبات",
+    "about": "من نحن",
+    "contact": "اتصل بنا",
+    "blogs": "المدونات",
+    "partner": "الشراكة معنا",
+    "requestQuote": "طلب عرض سعر",
+    "meeting": "اجتماع",
+    "howMayWeHelp": "كيف يمكننا مساعدتك؟"
+  },
+  "footer": {
+    "company": "الشركة",
+    "address": "العنوان",
+    "certifications": "الشهادات",
+    "allRightsReserved": "جميع الحقوق محفوظة"
+  },
+  "home": {
+    "title": "سورجي ميكرز",
+    "heroTitle": "أدوات جراحية متميزة",
+    "heroSubtitle": "أدوات أسنان جراحية عالية الجودة",
+    "learnMore": "اعرف المزيد"
+  },
+  "products": {
+    "allProducts": "جميع المنتجات",
+    "searchProducts": "البحث عن المنتجات...",
+    "showingProducts": "عرض",
+    "of": "من",
+    "products": "منتجات",
+    "noProductsFound": "لم يتم العثور على منتجات.",
+    "loadingProducts": "جاري تحميل المنتجات..."
+  },
+  "common": {
+    "close": "إغلاق",
+    "open": "فتح",
+    "menu": "قائمة",
+    "filter": "تصفية",
+    "categories": "التصنيفات",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

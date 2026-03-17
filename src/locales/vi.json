@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "Trang chủ",
+    "products": "Sản phẩm",
+    "catalogs": "Danh mục",
+    "about": "Về chúng tôi",
+    "contact": "Liên hệ",
+    "blogs": "Blog",
+    "partner": "Hợp tác",
+    "requestQuote": "Yêu cầu báo giá",
+    "meeting": "Cuộc họp",
+    "howMayWeHelp": "Làm thế nào chúng tôi có thể giúp bạn?"
+  },
+  "footer": {
+    "company": "Công ty",
+    "address": "Địa chỉ",
+    "certifications": "Chứng nhận",
+    "allRightsReserved": "Bản quyền được bảo lưu"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "Dụng cụ Phẫu thuật Cao cấp",
+    "heroSubtitle": "Dụng cụ Nha khoa và Phẫu thuật Chất lượng cao",
+    "learnMore": "Tìm hiểu thêm"
+  },
+  "products": {
+    "allProducts": "Tất cả Sản phẩm",
+    "searchProducts": "Tìm kiếm sản phẩm...",
+    "showingProducts": "Hiển thị",
+    "of": "của",
+    "products": "sản phẩm",
+    "noProductsFound": "Không tìm thấy sản phẩm.",
+    "loadingProducts": "Đang tải sản phẩm..."
+  },
+  "common": {
+    "close": "Đóng",
+    "open": "Mở",
+    "menu": "Menu",
+    "filter": "Bộ lọc",
+    "categories": "Danh mục",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

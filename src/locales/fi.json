@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "Etusivu",
+    "products": "Tuotteet",
+    "catalogs": "Katalogit",
+    "about": "Meistä",
+    "contact": "Yhteystiedot",
+    "blogs": "Blogit",
+    "partner": "Partneriksi",
+    "requestQuote": "Pyydä Tarjous",
+    "meeting": "Tapaaminen",
+    "howMayWeHelp": "Miten voimme auttaa?"
+  },
+  "footer": {
+    "company": "Yritys",
+    "address": "Osoite",
+    "certifications": "Sertifikaatit",
+    "allRightsReserved": "Kaikki oikeudet pidätetään"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "Premium Kirurgiset Instrumentit",
+    "heroSubtitle": "Laadukkaat Hammas- ja Kirurgiset Instrumentit",
+    "learnMore": "Lisätietoa"
+  },
+  "products": {
+    "allProducts": "Kaikki Tuotteet",
+    "searchProducts": "Etsi tuotteita...",
+    "showingProducts": "Näytetään",
+    "of": "n",
+    "products": "tuotteet",
+    "noProductsFound": "Tuotteita ei löytynyt.",
+    "loadingProducts": "Ladataan tuotteita..."
+  },
+  "common": {
+    "close": "Sulje",
+    "open": "Avaa",
+    "menu": "Valikko",
+    "filter": "Suodata",
+    "categories": "Kategoriat",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

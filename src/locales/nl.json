@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "Home",
+    "products": "Producten",
+    "catalogs": "Catalogi",
+    "about": "Over ons",
+    "contact": "Contact",
+    "blogs": "Blogs",
+    "partner": "Partner worden",
+    "requestQuote": "Offerte aanvragen",
+    "meeting": "Vergadering",
+    "howMayWeHelp": "Hoe kunnen we helpen?"
+  },
+  "footer": {
+    "company": "Bedrijf",
+    "address": "Adres",
+    "certifications": "Certificeringen",
+    "allRightsReserved": "Alle rechten voorbehouden"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "Premium Chirurgische Instrumenten",
+    "heroSubtitle": "Kwaliteits Tand- en Chirurgische Instrumenten",
+    "learnMore": "Meer informatie"
+  },
+  "products": {
+    "allProducts": "Alle Producten",
+    "searchProducts": "Producten zoeken...",
+    "showingProducts": "Wordt getoond",
+    "of": "van",
+    "products": "producten",
+    "noProductsFound": "Geen producten gevonden.",
+    "loadingProducts": "Producten laden..."
+  },
+  "common": {
+    "close": "Sluiten",
+    "open": "Openen",
+    "menu": "Menu",
+    "filter": "Filter",
+    "categories": "Categorieën",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

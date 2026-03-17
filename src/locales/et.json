@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "Avaleht",
+    "products": "Tooted",
+    "catalogs": "Kataloogid",
+    "about": "Meist",
+    "contact": "Kontakt",
+    "blogs": "Blogid",
+    "partner": "Partneriteks",
+    "requestQuote": "Hinna päring",
+    "meeting": "Kohtumine",
+    "howMayWeHelp": "Kuidas saame aidata?"
+  },
+  "footer": {
+    "company": "Ettevõte",
+    "address": "Aadress",
+    "certifications": "Sertifikaadid",
+    "allRightsReserved": "Kõik õigused kaitstud"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "Premium Kirurgilised Instrumendid",
+    "heroSubtitle": "Kvaliteetsed Hambapüsi ja Kirurgilised Instrumendid",
+    "learnMore": "Lisateave"
+  },
+  "products": {
+    "allProducts": "Kõik Tooted",
+    "searchProducts": "Otsi tooteid...",
+    "showingProducts": "Näidaval",
+    "of": "of",
+    "products": "tooted",
+    "noProductsFound": "Tooteid ei leitud.",
+    "loadingProducts": "Tooteid laadimisel..."
+  },
+  "common": {
+    "close": "Sulge",
+    "open": "Ava",
+    "menu": "Menüü",
+    "filter": "Filter",
+    "categories": "Kategooriad",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

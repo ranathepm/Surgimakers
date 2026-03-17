@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "בית",
+    "products": "מוצרים",
+    "catalogs": "קטלוגים",
+    "about": "אודות",
+    "contact": "צור קשר",
+    "blogs": "בלוגים",
+    "partner": "שותפות",
+    "requestQuote": "בקש הצעת מחיר",
+    "meeting": "פגישה",
+    "howMayWeHelp": "איך אנחנו יכולים לעזור?"
+  },
+  "footer": {
+    "company": "חברה",
+    "address": "כתובת",
+    "certifications": "תעודות",
+    "allRightsReserved": "כל הזכויות שמורות"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "כלים כירורגיים פרימיום",
+    "heroSubtitle": "כלים דנטליים וכירורגיים באיכות",
+    "learnMore": "למד עוד"
+  },
+  "products": {
+    "allProducts": "כל המוצרים",
+    "searchProducts": "חיפוש מוצרים...",
+    "showingProducts": "מציג",
+    "of": "סה\"כ",
+    "products": "מוצרים",
+    "noProductsFound": "לא נמצאו מוצרים.",
+    "loadingProducts": "טעינת מוצרים..."
+  },
+  "common": {
+    "close": "סגור",
+    "open": "פתח",
+    "menu": "תפריט",
+    "filter": "סינון",
+    "categories": "קטגוריות",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "Ballina",
+    "products": "Produktet",
+    "catalogs": "Katalogë",
+    "about": "Rreth nesh",
+    "contact": "Kontakt",
+    "blogs": "Blogje",
+    "partner": "Partnerët",
+    "requestQuote": "Kërko ofertë",
+    "meeting": "Takim",
+    "howMayWeHelp": "Si mund ta ndihmojmë?"
+  },
+  "footer": {
+    "company": "Kompani",
+    "address": "Adresë",
+    "certifications": "Certifikatat",
+    "allRightsReserved": "Të gjithë të drejtat e rezervuara"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "Instrumente Kirurgjike Premium",
+    "heroSubtitle": "Instrumente Dentare dhe Kirurgjike të Kualitetit",
+    "learnMore": "Mësoni më shumë"
+  },
+  "products": {
+    "allProducts": "Të gjithë produktet",
+    "searchProducts": "Kërko për produkte...",
+    "showingProducts": "Duke shfaqur",
+    "of": "nga",
+    "products": "produkte",
+    "noProductsFound": "Nuk u gjet asnjë produkt.",
+    "loadingProducts": "Duke ngarkuar produktet..."
+  },
+  "common": {
+    "close": "Mbylle",
+    "open": "Hap",
+    "menu": "Meny",
+    "filter": "Filtri",
+    "categories": "Kategoritë",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "Ana Sayfa",
+    "products": "Ürünler",
+    "catalogs": "Kataloglar",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "blogs": "Bloglar",
+    "partner": "Ortak Olun",
+    "requestQuote": "Teklif İste",
+    "meeting": "Toplantı",
+    "howMayWeHelp": "Size nasıl yardımcı olabiliriz?"
+  },
+  "footer": {
+    "company": "Şirket",
+    "address": "Adres",
+    "certifications": "Sertifikalar",
+    "allRightsReserved": "Tüm hakları saklıdır"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "Premium Cerrahi Aletler",
+    "heroSubtitle": "Kaliteli Diş ve Cerrahi Aletler",
+    "learnMore": "Daha Fazla Bilgi"
+  },
+  "products": {
+    "allProducts": "Tüm Ürünler",
+    "searchProducts": "Ürün ara...",
+    "showingProducts": "Gösteriliyor",
+    "of": "üzerinden",
+    "products": "ürünler",
+    "noProductsFound": "Ürün bulunamadı.",
+    "loadingProducts": "Ürünler yükleniyor..."
+  },
+  "common": {
+    "close": "Kapat",
+    "open": "Aç",
+    "menu": "Menü",
+    "filter": "Filtre",
+    "categories": "Kategoriler",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

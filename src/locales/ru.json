@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "Главная",
+    "products": "Продукты",
+    "catalogs": "Каталоги",
+    "about": "О нас",
+    "contact": "Контакты",
+    "blogs": "Блоги",
+    "partner": "Сотрудничество",
+    "requestQuote": "Запросить предложение",
+    "meeting": "Встреча",
+    "howMayWeHelp": "Чем мы можем помочь?"
+  },
+  "footer": {
+    "company": "Компания",
+    "address": "Адрес",
+    "certifications": "Сертификации",
+    "allRightsReserved": "Все права защищены"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "Премиум хирургические инструменты",
+    "heroSubtitle": "Качественные стоматологические и хирургические инструменты",
+    "learnMore": "Узнать больше"
+  },
+  "products": {
+    "allProducts": "Все Продукты",
+    "searchProducts": "Поиск продуктов...",
+    "showingProducts": "Показано",
+    "of": "из",
+    "products": "продуктов",
+    "noProductsFound": "Продукты не найдены.",
+    "loadingProducts": "Загрузка продуктов..."
+  },
+  "common": {
+    "close": "Закрыть",
+    "open": "Открыть",
+    "menu": "Меню",
+    "filter": "Фильтр",
+    "categories": "Категории",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Вернуться к продуктам",
+    "loadingProduct": "Загрузка товара...",
+    "productNotFound": "Товар не найден",
+    "description": "Описание",
+    "category": "Категория",
+    "sku": "Артикул",
+    "requestQuote": "Запросить предложение",
+    "emailUs": "Написать нам",
+    "moreProducts": "Больше товаров",
+    "similarTo": "Похожий на",
+    "defaultDescription": "Товар премиум-качества, произведенный с точностью и заботой. Создан для совершенства в медицинских условиях. Свяжитесь с нами для подробных спецификаций и опций настройки."
+  }
+}

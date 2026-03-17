@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "Domov",
+    "products": "Produkty",
+    "catalogs": "Katalógy",
+    "about": "O nás",
+    "contact": "Kontakt",
+    "blogs": "Blogy",
+    "partner": "Partnerstvo",
+    "requestQuote": "Požiadať o ponuku",
+    "meeting": "Stretnutie",
+    "howMayWeHelp": "Ako vám môžeme pomôcť?"
+  },
+  "footer": {
+    "company": "Spoločnosť",
+    "address": "Adresa",
+    "certifications": "Certifikácie",
+    "allRightsReserved": "Všetky práva vyhradené"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "Prémiové Chirurgické Nástroje",
+    "heroSubtitle": "Kvalitné Zubné a Chirurgické Nástroje",
+    "learnMore": "Zistiť viac"
+  },
+  "products": {
+    "allProducts": "Všetky Produkty",
+    "searchProducts": "Vyhľadávanie produktov...",
+    "showingProducts": "Zobrazenie",
+    "of": "z",
+    "products": "produktov",
+    "noProductsFound": "Nenali sa žiadne produkty.",
+    "loadingProducts": "Načítavanie produktov..."
+  },
+  "common": {
+    "close": "Zavrieť",
+    "open": "Otvoriť",
+    "menu": "Menu",
+    "filter": "Filter",
+    "categories": "Kategórie",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

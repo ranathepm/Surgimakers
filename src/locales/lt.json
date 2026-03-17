@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "Pradžia",
+    "products": "Produktai",
+    "catalogs": "Katalogai",
+    "about": "Apie mus",
+    "contact": "Kontaktai",
+    "blogs": "Blogai",
+    "partner": "Partnerystė",
+    "requestQuote": "Prašyti kainos",
+    "meeting": "Susitikimas",
+    "howMayWeHelp": "Kaip galime padėti?"
+  },
+  "footer": {
+    "company": "Kompanija",
+    "address": "Adresas",
+    "certifications": "Sertifikatai",
+    "allRightsReserved": "Visos teisės saugomos"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "Premium Chirurginiai Instrumentai",
+    "heroSubtitle": "Kokybiškių Dantų ir Chirurgijos Instrumentų",
+    "learnMore": "Sužinokite daugiau"
+  },
+  "products": {
+    "allProducts": "Visi Produktai",
+    "searchProducts": "Ieškoti produktų...",
+    "showingProducts": "Rodoma",
+    "of": "iš",
+    "products": "produktų",
+    "noProductsFound": "Produktų nerasti.",
+    "loadingProducts": "Įkėliami produktai..."
+  },
+  "common": {
+    "close": "Užverti",
+    "open": "Atverti",
+    "menu": "Meniu",
+    "filter": "Filtras",
+    "categories": "Kategorijos",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

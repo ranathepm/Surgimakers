@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "Acasă",
+    "products": "Produse",
+    "catalogs": "Cataloage",
+    "about": "Despre noi",
+    "contact": "Contact",
+    "blogs": "Bloguri",
+    "partner": "Partener",
+    "requestQuote": "Cerere Ofertă",
+    "meeting": "Întâlnire",
+    "howMayWeHelp": "Cum vă putem ajuta?"
+  },
+  "footer": {
+    "company": "Companie",
+    "address": "Adresă",
+    "certifications": "Certificări",
+    "allRightsReserved": "Toate drepturile rezervate"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "Instrumente Chirurgicale Premium",
+    "heroSubtitle": "Instrumente Dentare și Chirurgicale de Calitate",
+    "learnMore": "Aflați mai multe"
+  },
+  "products": {
+    "allProducts": "Toate Produsele",
+    "searchProducts": "Căutați produse...",
+    "showingProducts": "Afișare",
+    "of": "din",
+    "products": "produse",
+    "noProductsFound": "Nu s-au găsit produse.",
+    "loadingProducts": "Încărcare produse..."
+  },
+  "common": {
+    "close": "Închide",
+    "open": "Deschide",
+    "menu": "Meniu",
+    "filter": "Filtru",
+    "categories": "Categorii",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

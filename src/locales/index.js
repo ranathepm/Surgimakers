@@ -1,0 +1,52 @@
+import en from './en.json';
+import es from './es.json';
+import fr from './fr.json';
+import de from './de.json';
+import pt from './pt.json';
+import it from './it.json';
+import ru from './ru.json';
+import ja from './ja.json';
+import ko from './ko.json';
+import zh from './zh.json';
+import ar from './ar.json';
+import ur from './ur.json';
+import hi from './hi.json';
+import bn from './bn.json';
+import tr from './tr.json';
+import nl from './nl.json';
+import pl from './pl.json';
+import sv from './sv.json';
+import da from './da.json';
+import no from './no.json';
+import fi from './fi.json';
+import el from './el.json';
+import ro from './ro.json';
+import cs from './cs.json';
+import uk from './uk.json';
+import th from './th.json';
+import id from './id.json';
+import ms from './ms.json';
+import vi from './vi.json';
+import he from './he.json';
+import fa from './fa.json';
+import hu from './hu.json';
+import bg from './bg.json';
+import sr from './sr.json';
+import hr from './hr.json';
+import sk from './sk.json';
+import sl from './sl.json';
+import ca from './ca.json';
+import et from './et.json';
+import lv from './lv.json';
+import lt from './lt.json';
+import mt from './mt.json';
+import cy from './cy.json';
+import is from './is.json';
+import sq from './sq.json';
+import mk from './mk.json';
+
+const translations = {
+  en, es, fr, de, pt, it, ru, ja, ko, zh, ar, ur, hi, bn, tr, nl, pl, sv, da, no, fi, el, ro, cs, uk, th, id, ms, vi, he, fa, hu, bg, sr, hr, sk, sl, ca, et, lv, lt, mt, cy, is, sq, mk,
+};
+
+export default translations;

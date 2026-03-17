@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "Kezdőlap",
+    "products": "Termékek",
+    "catalogs": "Katalógusok",
+    "about": "Rólunk",
+    "contact": "Kapcsolat",
+    "blogs": "Blogok",
+    "partner": "Partnerek",
+    "requestQuote": "Árajánlat Kérés",
+    "meeting": "Találkozó",
+    "howMayWeHelp": "Hogyan segíthetünk?"
+  },
+  "footer": {
+    "company": "Cég",
+    "address": "Cím",
+    "certifications": "Tanúsítványok",
+    "allRightsReserved": "Minden jog fenntartva"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "Prémium Sebészeti Eszközök",
+    "heroSubtitle": "Minőségi Fogászati és Sebészeti Eszközök",
+    "learnMore": "Tudj meg többet"
+  },
+  "products": {
+    "allProducts": "Minden Termék",
+    "searchProducts": "Termékek keresése...",
+    "showingProducts": "Megjelenítés",
+    "of": "-ből",
+    "products": "termékek",
+    "noProductsFound": "Nem található termék.",
+    "loadingProducts": "Termékek betöltése..."
+  },
+  "common": {
+    "close": "Bezárás",
+    "open": "Megnyitás",
+    "menu": "Menü",
+    "filter": "Szűrő",
+    "categories": "Kategóriák",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

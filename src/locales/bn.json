@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "হোম",
+    "products": "পণ্যসমূহ",
+    "catalogs": "ক্যাটালগ",
+    "about": "আমাদের সম্পর্কে",
+    "contact": "যোগাযোগ",
+    "blogs": "ব্লগ",
+    "partner": "অংশীদার হোন",
+    "requestQuote": "উদ্ধরণের অনুরোধ",
+    "meeting": "বৈঠক",
+    "howMayWeHelp": "আমরা কীভাবে সাহায্য করতে পারি?"
+  },
+  "footer": {
+    "company": "কোম্পানি",
+    "address": "ঠিকানা",
+    "certifications": "প্রমাণপত্র",
+    "allRightsReserved": "সর্বস্বত্ব সংরক্ষিত"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "প্রিমিয়াম সার্জিক্যাল ইন্সট্রুমেন্ট",
+    "heroSubtitle": "মানসম্মত ডেন্টাল এবং সার্জিক্যাল ইন্সট্রুমেন্ট",
+    "learnMore": "আরও জানুন"
+  },
+  "products": {
+    "allProducts": "সকল পণ্য",
+    "searchProducts": "পণ্য অনুসন্ধান...",
+    "showingProducts": "দেখাচ্ছে",
+    "of": "এর",
+    "products": "পণ্য",
+    "noProductsFound": "কোনো পণ্য পাওয়া যায়নি।",
+    "loadingProducts": "পণ্য লোড হচ্ছে..."
+  },
+  "common": {
+    "close": "বন্ধ করুন",
+    "open": "খুলুন",
+    "menu": "মেনু",
+    "filter": "ফিল্টার",
+    "categories": "বিভাগ",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}

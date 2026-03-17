@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "ホーム",
+    "products": "製品",
+    "catalogs": "カタログ",
+    "about": "私たちについて",
+    "contact": "お問い合わせ",
+    "blogs": "ブログ",
+    "partner": "パートナーシップ",
+    "requestQuote": "見積もり依頼",
+    "meeting": "会議",
+    "howMayWeHelp": "どのようにお手伝いできますか？"
+  },
+  "footer": {
+    "company": "会社",
+    "address": "住所",
+    "certifications": "認証",
+    "allRightsReserved": "すべての権利を保有"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "プレミアム外科器具",
+    "heroSubtitle": "高品質歯科・外科器具",
+    "learnMore": "詳しく見る"
+  },
+  "products": {
+    "allProducts": "すべての製品",
+    "searchProducts": "製品を検索...",
+    "showingProducts": "表示中",
+    "of": "の",
+    "products": "製品",
+    "noProductsFound": "製品が見つかりません。",
+    "loadingProducts": "製品を読み込み中..."
+  },
+  "common": {
+    "close": "閉じる",
+    "open": "開く",
+    "menu": "メニュー",
+    "filter": "フィルター",
+    "categories": "カテゴリー",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "製品に戻る",
+    "loadingProduct": "製品を読み込んでいます...",
+    "productNotFound": "製品が見つかりません",
+    "description": "説明",
+    "category": "カテゴリ",
+    "sku": "SKU",
+    "requestQuote": "見積もりを依頼",
+    "emailUs": "メールを送る",
+    "moreProducts": "その他の製品",
+    "similarTo": "に似ている",
+    "defaultDescription": "精密とケアで製造されたプレミアム品質の製品。医療環境での卓越性のために設計されています。詳細な仕様とカスタマイズオプションについては、お問い合わせください。"
+  }
+}

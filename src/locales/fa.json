@@ -1,0 +1,58 @@
+{
+  "header": {
+    "home": "خانه",
+    "products": "محصولات",
+    "catalogs": "کاتالوگ‌ها",
+    "about": "درباره ما",
+    "contact": "تماس",
+    "blogs": "وبلاگ‌ها",
+    "partner": "همکاری",
+    "requestQuote": "درخواست قیمت",
+    "meeting": "جلسه",
+    "howMayWeHelp": "چگونه می‌توانیم کمک کنیم؟"
+  },
+  "footer": {
+    "company": "شرکت",
+    "address": "آدرس",
+    "certifications": "گواهی‌نامه‌ها",
+    "allRightsReserved": "تمام حقوق محفوظ است"
+  },
+  "home": {
+    "title": "Surgi Makers",
+    "heroTitle": "ابزارهای جراحی پریمیوم",
+    "heroSubtitle": "ابزارهای دندانپزشکی و جراحی با کیفیت",
+    "learnMore": "بیشتر بدانید"
+  },
+  "products": {
+    "allProducts": "همه محصولات",
+    "searchProducts": "جستجوی محصولات...",
+    "showingProducts": "نمایش",
+    "of": "از",
+    "products": "محصولات",
+    "noProductsFound": "محصولی یافت نشد.",
+    "loadingProducts": "در حال بارگذاری محصولات..."
+  },
+  "common": {
+    "close": "بستن",
+    "open": "باز کردن",
+    "menu": "منو",
+    "filter": "فیلتر",
+    "categories": "دسته‌بندی‌ها",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found",
+    "description": "Description",
+    "category": "Category",
+    "sku": "SKU",
+    "requestQuote": "Request a Quote",
+    "emailUs": "Email Us",
+    "moreProducts": "More Products",
+    "similarTo": "Similar to",
+    "defaultDescription": "Premium quality product manufactured with precision and care. Designed for excellence in healthcare environments. Contact us for detailed specifications and customization options."
+  }
+}
