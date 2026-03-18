@@ -105,8 +105,8 @@ export const metadata = {
   referrer: "origin-when-cross-origin",
   metadataBase: new URL("https://surgimakers.com"),
   icons: {
-    icon: "/favicon.png",
-    shortcut: "/favicon.png",
+    icon: "/favicon.svg",
+    shortcut: "/favicon.svg",
     apple: "/favicon.png"
   },
   alternates: {
