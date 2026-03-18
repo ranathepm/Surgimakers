@@ -178,7 +178,7 @@ const blogPosts = [
 
 export default function BlogsPage() {
   useEffect(() => {
-    AOS.init({ duration: 700, once: true });
+    AOS.init({ duration: 320, once: true, easing: "ease-out", offset: 24 });
   }, []);
 
   return (
@@ -194,7 +194,7 @@ export default function BlogsPage() {
             <div
               className="overflow-hidden rounded-3xl border border-gray-200 shadow-xl"
               data-aos="fade-up"
-              data-aos-delay="100"
+              data-aos-delay="40"
             >
               <div className="relative h-[340px] md:h-[430px]">
                 <img
@@ -263,7 +263,7 @@ export default function BlogsPage() {
               key={post.slug}
               className="overflow-hidden rounded-xl border border-white/10 bg-[radial-gradient(circle_at_top_left,rgba(220,38,38,0.18),transparent_34%),linear-gradient(135deg,rgba(2,6,23,0.92)_0%,rgba(15,23,42,0.88)_55%,rgba(31,41,55,0.88)_100%)] shadow-lg transition-shadow duration-300 hover:shadow-xl"
               data-aos="fade-up"
-              data-aos-delay={index * 100}
+              data-aos-delay={index * 35}
             >
               <div className="flex h-48 items-center justify-center bg-[linear-gradient(135deg,rgba(220,38,38,0.32),rgba(127,29,29,0.2))]">
                 <div className="text-6xl text-white/60">

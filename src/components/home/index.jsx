@@ -125,21 +125,21 @@ function FAQItem({ question, answer }) {
 
   return (
     <div
-      className="border border-white/10 rounded-lg overflow-hidden bg-white/5 backdrop-blur-sm hover:border-red-600 transition-colors"
+      className="overflow-hidden rounded-xl border border-white/10 bg-white/5 backdrop-blur-sm transition-colors hover:border-red-600"
       data-aos="fade-up"
     >
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="w-full px-6 py-5 text-left flex items-center justify-between text-white"
+        className="flex w-full items-center justify-between px-4 py-3 text-left text-white md:px-5"
       >
-        <span className="text-lg font-semibold pr-4">{question}</span>
+        <span className="pr-4 text-sm font-semibold leading-6 md:text-base">{question}</span>
         <span className="text-red-600 flex-shrink-0">
-          {isOpen ? <FaMinus size={20} /> : <FaPlus size={20} />}
+          {isOpen ? <FaMinus size={16} /> : <FaPlus size={16} />}
         </span>
       </button>
       {isOpen && (
-        <div className="px-6 pb-5">
-          <p className="text-gray-300 leading-relaxed">{answer}</p>
+        <div className="px-4 pb-4 md:px-5">
+          <p className="text-sm leading-6 text-gray-300">{answer}</p>
         </div>
       )}
     </div>
@@ -1028,196 +1028,22 @@ function HomeComponent() {
         </div>
       </section>
 
-      {/* Contact Form Section */}
-      <section id="contact-section" className="py-16 px-4">
-        <div className="max-w-6xl mx-auto">
-          <div data-aos="fade-up">
-            <p className="text-red-600 font-semibold text-center mb-3">
-              Get in Touch
-            </p>
-            <h1 className="text-4xl font-bold text-white mb-4 text-center">
-              Contact Us
-            </h1>
-            <p className="text-gray-300 text-center max-w-2xl mx-auto mb-12">
-              Have questions about our premium surgical instruments? Our team is here to help you find exactly what you need.
-            </p>
-          </div>
-          <div className="flex flex-wrap lg:items-stretch" data-aos="fade-up">
-            {/* Left Side - Info */}
-            <div className="w-full lg:w-5/12 pr-0 lg:pr-8 mb-8 lg:mb-0">
-              <div className="h-full bg-[radial-gradient(circle_at_top_left,rgba(220,38,38,0.22),transparent_35%),linear-gradient(135deg,#020617_0%,#111827_55%,#1f2937_100%)] text-white rounded-xl shadow-lg p-8">
-                <div className="w-16 h-16 bg-red-600 rounded-lg flex items-center justify-center mb-6">
-                  <FaHeadset className="text-white text-2xl" />
-                </div>
-                <h2 className="text-2xl font-bold mb-4 text-white">
-                  Have questions or need assistance?
-                </h2>
-                <p className="mb-4 text-gray-200">
-                  Contact us today— we&apos;re here to help!
-                </p>
-                <p className="mb-6 leading-6 text-gray-300">
-                  Whether you need product information, pricing details, or technical support, our dedicated team is ready to assist you with personalized service and expert advice.
-                </p>
-                <div className="space-y-4">
-                  <div className="flex items-center gap-3">
-                    <div className="w-10 h-10 bg-red-600 rounded-lg flex items-center justify-center">
-                      <FaPhone className="text-white" />
-                    </div>
-                    <div>
-                      <p className="text-gray-400 text-sm">Pakistan</p>
-                      <p className="text-white font-semibold">+92 321 545 0050</p>
-                    </div>
-                  </div>
-                  <div className="flex items-center gap-3">
-                    <div className="w-10 h-10 bg-red-600 rounded-lg flex items-center justify-center">
-                      <FaPhone className="text-white" />
-                    </div>
-                    <div>
-                      <p className="text-gray-400 text-sm">USA</p>
-                      <p className="text-white font-semibold">+1 (903) 608-9241</p>
-                    </div>
-                  </div>
-                  <div className="flex items-center gap-3">
-                    <div className="w-10 h-10 bg-red-600 rounded-lg flex items-center justify-center">
-                      <FaEnvelope className="text-white" />
-                    </div>
-                    <div>
-                      <p className="text-gray-400 text-sm">General Inquiries</p>
-                      <p className="text-white font-semibold">hello@surgimakers.com</p>
-                    </div>
-                  </div>
-                  <div className="flex items-center gap-3">
-                    <div className="w-10 h-10 bg-red-600 rounded-lg flex items-center justify-center">
-                      <FaEnvelope className="text-white" />
-                    </div>
-                    <div>
-                      <p className="text-gray-400 text-sm">Business Email</p>
-                      <p className="text-white font-semibold">info@surgimakers.com</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            {/* Right Side - Form */}
-            <div className="w-full lg:w-7/12">
-              <div className="h-full rounded-[2rem] border border-white/10 bg-[radial-gradient(circle_at_top_left,rgba(220,38,38,0.18),transparent_34%),linear-gradient(135deg,rgba(2,6,23,0.92)_0%,rgba(15,23,42,0.88)_55%,rgba(31,41,55,0.88)_100%)] p-8 shadow-[0_16px_44px_rgba(0,0,0,0.14)] backdrop-blur-sm" data-aos="fade-up">
-                <h2 className="text-3xl font-bold text-white mb-2">Send Us a Message</h2>
-                <p className="mb-6 max-w-xl text-sm leading-7 text-gray-300">
-                  Fill out the form below and our team will get back to you as soon as possible.
-                </p>
-                <form className="space-y-4" onSubmit={handleSubmit}>
-                  <div className="grid gap-4 md:grid-cols-2">
-                    <div>
-                      <input
-                        type="text"
-                        name="name"
-                        value={formData.name}
-                        onChange={handleChange}
-                        placeholder="Your Name"
-                        className="w-full rounded-2xl border border-white/10 bg-white/5 px-4 py-3 text-sm font-medium text-white placeholder-gray-400 outline-none ring-0 transition focus:border-red-600 focus:outline-none focus:ring-0 focus-visible:outline-none focus-visible:ring-0"
-                        required
-                      />
-                    </div>
-                    <div>
-                      <input
-                        type="email"
-                        name="email"
-                        value={formData.email}
-                        onChange={handleChange}
-                        placeholder="Your Email"
-                        className="w-full rounded-2xl border border-white/10 bg-white/5 px-4 py-3 text-sm font-medium text-white placeholder-gray-400 outline-none ring-0 transition focus:border-red-600 focus:outline-none focus:ring-0 focus-visible:outline-none focus-visible:ring-0"
-                        required
-                      />
-                    </div>
-                  </div>
-                  <div className="grid gap-4 md:grid-cols-2">
-                    <div>
-                      <input
-                        type="text"
-                        name="phone"
-                        value={formData.phone}
-                        onChange={handleChange}
-                        placeholder="Phone Number"
-                        className="w-full rounded-2xl border border-white/10 bg-white/5 px-4 py-3 text-sm font-medium text-white placeholder-gray-400 outline-none ring-0 transition focus:border-red-600 focus:outline-none focus:ring-0 focus-visible:outline-none focus-visible:ring-0"
-                      />
-                    </div>
-                    <div>
-                      <input
-                        type="text"
-                        name="subject"
-                        value={formData.subject}
-                        onChange={handleChange}
-                        placeholder="Subject"
-                        className="w-full rounded-2xl border border-white/10 bg-white/5 px-4 py-3 text-sm font-medium text-white placeholder-gray-400 outline-none ring-0 transition focus:border-red-600 focus:outline-none focus:ring-0 focus-visible:outline-none focus-visible:ring-0"
-                        required
-                      />
-                    </div>
-                  </div>
-                  <textarea
-                    name="message"
-                    value={formData.message}
-                    onChange={handleChange}
-                    placeholder="Your Message"
-                    className="h-36 w-full resize-none rounded-2xl border border-white/10 bg-white/5 px-4 py-3 text-sm font-medium text-white placeholder-gray-400 outline-none ring-0 transition focus:border-red-600 focus:outline-none focus:ring-0 focus-visible:outline-none focus-visible:ring-0"
-                    required
-                  ></textarea>
-                  <div className="rounded-2xl border border-dashed border-white/15 bg-white/5 px-4 py-3 text-sm text-gray-300">
-                    <label className="flex cursor-pointer items-center gap-4 text-left">
-                      <span className="rounded-full bg-red-600 px-4 py-2 text-xs font-semibold text-white">
-                        Choose File
-                      </span>
-                      <span>Attach file if needed</span>
-                      <input
-                        type="file"
-                        name="attachment"
-                        onChange={handleFileChange}
-                        className="hidden"
-                      />
-                    </label>
-                    {formData.attachment && (
-                      <p className="mt-3 text-xs text-gray-300">{formData.attachment.name}</p>
-                    )}
-                  </div>
-
-                  <button
-                    type="submit"
-                    className="w-full rounded-full bg-red-600 py-3 text-sm font-semibold text-white transition-colors hover:bg-red-700"
-                    disabled={isSubmitting}
-                  >
-                    {isSubmitting ? "Submitting..." : "Send Message"}
-                  </button>
-                  {isSubmitted && (
-                    <p className="mt-4 text-green-600 text-center font-medium">
-                      Form submitted successfully! We&apos;ll get back to you soon.
-                    </p>
-                  )}
-                  {errorMessage && (
-                    <p className="mt-4 text-red-600 text-center">{errorMessage}</p>
-                  )}
-                </form>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
       {/* FAQ Section */}
       <section id="faq-section" className="py-16 px-4 bg-transparent">
-        <div className="max-w-5xl mx-auto">
+        <div className="mx-auto max-w-3xl">
           <div data-aos="fade-up">
             <p className="text-red-600 font-semibold text-center mb-3">
               Got Questions?
             </p>
-            <h1 className="text-4xl font-bold text-white mb-4 text-center">
+            <h1 className="text-center text-3xl font-bold text-white mb-4 md:text-4xl">
               Frequently Asked Questions
             </h1>
-            <p className="text-gray-300 text-center mb-12 max-w-2xl mx-auto">
+            <p className="mx-auto mb-10 max-w-xl text-center text-sm leading-7 text-gray-300">
               Find answers to common questions about Surgi Makers products, services, and policies below.
             </p>
           </div>
 
-          <div className="space-y-4">
+          <div className="space-y-3">
             <FAQItem
               question="Who is Surgi Makers?"
               answer="Surgi Makers is a premium manufacturer of surgical, dental, and beauty instruments. We combine cutting-edge technology with unparalleled craftsmanship to produce the finest medical instruments that meet global quality standards including ISO 13485 certification."
