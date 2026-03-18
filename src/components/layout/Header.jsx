@@ -11,7 +11,6 @@ import { FaCalendarAlt, FaTooth, FaHospital } from "react-icons/fa";
 import { usePathname } from "next/navigation";
 import { PRODUCT_CATEGORIES } from "../../app/products/categories";
 import { useTranslation } from "../../contexts/LanguageContext";
-import LanguageSelector from "../LanguageSelector";
 
 export default function Header({}) {
   const { t } = useTranslation();
@@ -261,7 +260,6 @@ export default function Header({}) {
               <FaCalendarAlt className="mr-2" />
               {t('header.meeting')}
             </Link>
-            <LanguageSelector />
           </div>
         </div>
       </nav>

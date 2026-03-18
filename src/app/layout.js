@@ -163,8 +163,10 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html lang="en" translate="no" className="notranslate">
       <head>
+        <meta name="google" content="notranslate" />
+        <meta httpEquiv="Content-Language" content="en" />
         {/* DNS prefetch for external domains */}
         <link rel="dns-prefetch" href="https://cdn.trustpilot.net" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
@@ -189,7 +191,7 @@ export default function RootLayout({ children }) {
           }}
         />
       </head>
-      <body className="antialiased">
+      <body className="antialiased notranslate">
         <noscript>
           <iframe
             src="https://www.googletagmanager.com/ns.html?id=GTM-TMTK67RR"
