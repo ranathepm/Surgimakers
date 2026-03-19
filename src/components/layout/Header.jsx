@@ -77,10 +77,10 @@ export default function Header({}) {
       } fixed top-0 w-full z-50 transition-all duration-300`}
     >
       <nav
-        className="mx-auto max-w-6xl flex items-center px-4 lg:px-5"
+        className="mx-auto flex max-w-6xl flex-col items-center px-4 lg:flex-row lg:items-center lg:px-5"
         aria-label="Global"
       >
-        <div className="flex items-center flex-shrink-0">
+        <div className="flex flex-shrink-0 items-center">
           <Link href="/" className="-m-1.5 relative z-10">
             <Image
               className="h-[50px] w-auto lg:h-[54px]"
@@ -91,10 +91,10 @@ export default function Header({}) {
             />
           </Link>
         </div>
-        <div className="flex lg:hidden">
+        <div className="mt-2 flex lg:hidden">
           <button
             type="button"
-            className="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-white hover:bg-gray-700"
+            className="inline-flex items-center justify-center rounded-md p-2.5 text-white hover:bg-gray-700"
             onClick={() => setMobileMenuOpen(true)}
             aria-label="Open main menu"
           >
@@ -105,7 +105,7 @@ export default function Header({}) {
             />
           </button>
         </div>
-        <div className="hidden lg:flex flex-1 items-center justify-between ml-10">
+        <div className="ml-10 hidden flex-1 items-center justify-between lg:flex">
           <div className="flex items-center gap-6 xl:gap-8">
             <Link
               href="/"
