@@ -270,14 +270,14 @@ export default function Header({}) {
             onClick={() => setMobileMenuOpen(false)}
           />
           <div
-            className="fixed inset-y-0 right-0 z-50 w-full max-w-sm overflow-y-auto bg-white px-4 py-6 shadow-xl"
+            className="fixed inset-y-0 right-0 z-50 w-full max-w-sm overflow-y-auto border-l border-white/10 bg-[radial-gradient(circle_at_top_left,rgba(220,38,38,0.22),transparent_32%),linear-gradient(135deg,#020617_0%,#111827_55%,#1f2937_100%)] px-4 py-6 shadow-xl"
             onClick={(e) => e.stopPropagation()}
           >
             <div className="flex items-center justify-between">
               <Link href="/" className="-m-1.5 p-1.5" onClick={() => setMobileMenuOpen(false)}>
                 <Image
                   className="h-[55px] w-[75px]"
-                  src="/LOGO_Red__Black.png"
+                  src="/LOGO_Red__White.png"
                   width={75}
                   height={75}
                   alt="Surgi Makers - Premium Surgical, Dental and Beauty Instruments Logo"
@@ -285,7 +285,7 @@ export default function Header({}) {
               </Link>
               <button
                 type="button"
-                className="-m-2.5 rounded-md p-2.5 text-gray-900 hover:bg-gray-100"
+                className="-m-2.5 rounded-md p-2.5 text-white hover:bg-white/10"
                 onClick={() => setMobileMenuOpen(false)}
                 aria-label="Close menu"
               >
@@ -294,68 +294,68 @@ export default function Header({}) {
               </button>
             </div>
             <div className="mt-8 flow-root">
-              <div className="-my-6 divide-y divide-gray-100">
+              <div className="-my-6 divide-y divide-white/10">
                 <div className="space-y-2 py-4">
                   <Link
                     onClick={() => setMobileMenuOpen(false)}
                     href="/"
-                    className="-mx-3 block rounded-lg px-3 py-3 text-[15px] font-medium text-gray-900 hover:bg-gray-50 transition-colors"
+                    className="-mx-3 block rounded-lg px-3 py-3 text-[15px] font-medium text-white hover:bg-white/5 transition-colors"
                   >
                     {t('header.home')}
                   </Link>
                   <Link
                     onClick={() => setMobileMenuOpen(false)}
                     href="/products"
-                    className="-mx-3 block rounded-lg px-3 py-3 text-[15px] font-medium text-gray-900 hover:bg-gray-50 transition-colors"
+                    className="-mx-3 block rounded-lg px-3 py-3 text-[15px] font-medium text-white hover:bg-white/5 transition-colors"
                   >
                     {t('header.products')}
                   </Link>
                   <Link
                     href="/catalogs"
                     onClick={() => setMobileMenuOpen(false)}
-                    className="-mx-3 block rounded-lg px-3 py-3 text-[15px] font-medium text-gray-900 hover:bg-gray-50 transition-colors"
+                    className="-mx-3 block rounded-lg px-3 py-3 text-[15px] font-medium text-white hover:bg-white/5 transition-colors"
                   >
                     {t('header.catalogs')}
                   </Link>
                   <Link
                     onClick={() => setMobileMenuOpen(false)}
                     href="/about-us"
-                    className="-mx-3 block rounded-lg px-3 py-3 text-[15px] font-medium text-gray-900 hover:bg-gray-50 transition-colors"
+                    className="-mx-3 block rounded-lg px-3 py-3 text-[15px] font-medium text-white hover:bg-white/5 transition-colors"
                   >
                     {t('header.about')}
                   </Link>
                   <Link
                     onClick={() => setMobileMenuOpen(false)}
                     href="/contact"
-                    className="-mx-3 block rounded-lg px-3 py-3 text-[15px] font-medium text-gray-900 hover:bg-gray-50 transition-colors"
+                    className="-mx-3 block rounded-lg px-3 py-3 text-[15px] font-medium text-white hover:bg-white/5 transition-colors"
                   >
                     {t('header.contact')}
                   </Link>
                   <Link
                     onClick={() => setMobileMenuOpen(false)}
                     href="/blogs"
-                    className="-mx-3 block rounded-lg px-3 py-3 text-[15px] font-medium text-gray-900 hover:bg-gray-50 transition-colors"
+                    className="-mx-3 block rounded-lg px-3 py-3 text-[15px] font-medium text-white hover:bg-white/5 transition-colors"
                   >
                     {t('header.blogs')}
                   </Link>
                   <Link
                     onClick={() => setMobileMenuOpen(false)}
                     href="/oem-manufacturing"
-                    className="-mx-3 block rounded-lg px-3 py-3 text-[15px] font-medium text-gray-900 hover:bg-gray-50 transition-colors"
+                    className="-mx-3 block rounded-lg px-3 py-3 text-[15px] font-medium text-white hover:bg-white/5 transition-colors"
                   >
                     OEM Manufacturing
                   </Link>
                   <Link
                     onClick={() => setMobileMenuOpen(false)}
                     href="/quality-control"
-                    className="-mx-3 block rounded-lg px-3 py-3 text-[15px] font-medium text-gray-900 hover:bg-gray-50 transition-colors"
+                    className="-mx-3 block rounded-lg px-3 py-3 text-[15px] font-medium text-white hover:bg-white/5 transition-colors"
                   >
                     Quality Control
                   </Link>
                   <Link
                     onClick={() => setMobileMenuOpen(false)}
                     href="/partner"
-                    className="-mx-3 block rounded-lg px-3 py-3 text-[15px] font-medium text-red-600 hover:bg-gray-50 transition-colors"
+                    className="-mx-3 block rounded-lg px-3 py-3 text-[15px] font-medium text-red-500 hover:bg-white/5 transition-colors"
                   >
                     Partner Us
                   </Link>
@@ -373,7 +373,7 @@ export default function Header({}) {
                     target="_blank"
                     rel="noopener noreferrer"
                     onClick={() => setMobileMenuOpen(false)}
-                    className="ui-button -mx-3 block rounded-lg bg-gray-900 px-3 py-3 text-[14px] font-medium text-white text-center hover:bg-gray-800 transition-colors uppercase"
+                    className="ui-button -mx-3 block rounded-lg bg-red-600 px-3 py-3 text-[14px] font-medium text-white text-center hover:bg-red-700 transition-colors uppercase"
                   >
                     {t('header.meeting')}
                   </Link>
